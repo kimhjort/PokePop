@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: PokePop!
+description: A small minigame thing created for fun.
 markdown: kramdown
 show_downloads: true
 layout: default
